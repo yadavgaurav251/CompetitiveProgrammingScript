@@ -10,4 +10,4 @@ This script makes required number of copy for your contest. Just make template.c
 
 Result 
 
-![ContestFileGenResult](https://github.com/yadavgaurav251/CompetitiveProgrammingScript/blob/master/Images%26GIF/ContestFileGenResult.png)
+![ContestFileGenResult](https://github.com/yadavgaurav251/CompetitiveProgrammingScript/blob/master/Images%26GIF/ContestFileGen_Result.png)
